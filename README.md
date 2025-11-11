@@ -35,3 +35,7 @@ This is your mission control for the data job market. It showcases key KPIs like
 ![Dashboard page 2](images/image%202.png)
 
 This is the deep-dive page. From the main dashboard, you can drill through to this view to get specific details for a single job title, including salary ranges, work-from-home stats, top hiring platforms, and a global map of job locations.
+
+## Conclusion
+
+This dashboard showcases how Power BI can transform raw job posting data into a powerful tool for career analysis. It allows users to slice, filter, and drill through data to make informed decisions about their career paths.
